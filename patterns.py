@@ -9,7 +9,7 @@
 # 1 2 3
 # 1 2 3 4
 
-star='**'
+star='&'
 space=' '
 pattern=star+space
 print("*")
@@ -19,5 +19,7 @@ print("* * * *")
 
 for i in range(1,5):
     print(i*pattern)
+
+
 
 
