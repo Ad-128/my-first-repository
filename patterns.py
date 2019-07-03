@@ -9,7 +9,7 @@
 # 1 2 3
 # 1 2 3 4
 
-star='*'
+star='**'
 space=' '
 pattern=star+space
 print("*")
